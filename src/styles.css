@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.chessBox {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-red {
+  background-color: red;
+  transition: background-color 1000ms linear;
+}
